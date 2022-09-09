@@ -1,0 +1,5 @@
+Params to learn: 
+	 backbone.fc.weight
+	 backbone.fc.bias
+	 fc1.weight
+	 fc1.bias

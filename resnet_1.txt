@@ -1,0 +1,883 @@
+MISTAKE WITH TRANSFORM
+Training for resnet_1
+Epoch 0
+	Validation Accuracy:0.0
+	Validation Loss:171704960.0
+	Validation MAE:12193.8496
+	Train Accuracy:0.0
+	Train Loss:168707696.0
+	Train MAE:12207.2832
+	Test Accuracy:0.0
+	Test Loss:205469184.0
+	Test MAE:12160.6875
+Epoch 1
+	Validation Accuracy:0.0
+	Validation Loss:126345560.0
+	Validation MAE:10421.5195
+	Train Accuracy:0.0
+	Train Loss:161977824.0
+	Train MAE:10365.8359
+	Test Accuracy:0.0
+	Test Loss:149724512.0
+	Test MAE:10378.0801
+Epoch 2
+	Validation Accuracy:0.0
+	Validation Loss:105139008.0
+	Validation MAE:8907.7441
+	Train Accuracy:0.0
+	Train Loss:99957632.0
+	Train MAE:8916.5889
+	Test Accuracy:0.0
+	Test Loss:109977024.0
+	Test MAE:8891.9297
+Epoch 3
+	Validation Accuracy:0.0
+	Validation Loss:72246224.0
+	Validation MAE:7670.2427
+	Train Accuracy:0.0
+	Train Loss:71103248.0
+	Train MAE:7665.4609
+	Test Accuracy:0.0
+	Test Loss:81190704.0
+	Test MAE:7637.5713
+Epoch 4
+	Validation Accuracy:0.0
+	Validation Loss:55994808.0
+	Validation MAE:6574.0645
+	Train Accuracy:0.0
+	Train Loss:52092124.0
+	Train MAE:6577.6367
+	Test Accuracy:0.0
+	Test Loss:59981152.0
+	Test MAE:6562.1323
+Epoch 5
+	Validation Accuracy:0.0
+	Validation Loss:36345816.0
+	Validation MAE:5655.5703
+	Train Accuracy:0.0
+	Train Loss:43788520.0
+	Train MAE:5612.8066
+	Test Accuracy:0.0
+	Test Loss:44093560.0
+	Test MAE:5623.8662
+Epoch 6
+	Validation Accuracy:0.0
+	Validation Loss:28430558.0
+	Validation MAE:4798.6201
+	Train Accuracy:0.0
+	Train Loss:31339936.0
+	Train MAE:4799.7969
+	Test Accuracy:0.0
+	Test Loss:32064432.0
+	Test MAE:4793.2412
+Epoch 7
+	Validation Accuracy:0.0
+	Validation Loss:19534520.0
+	Validation MAE:4068.751
+	Train Accuracy:0.0
+	Train Loss:22682436.0
+	Train MAE:4041.1797
+	Test Accuracy:0.0
+	Test Loss:22883886.0
+	Test MAE:4046.6687
+Epoch 8
+	Validation Accuracy:0.0
+	Validation Loss:13947202.0
+	Validation MAE:3390.467
+	Train Accuracy:0.0
+	Train Loss:13592526.0
+	Train MAE:3386.7949
+	Test Accuracy:0.0
+	Test Loss:15914259.0
+	Test MAE:3371.8003
+Epoch 9
+	Validation Accuracy:0.0
+	Validation Loss:10279376.0
+	Validation MAE:2773.0933
+	Train Accuracy:0.0
+	Train Loss:8628114.0
+	Train MAE:2762.9358
+	Test Accuracy:0.0
+	Test Loss:10702552.0
+	Test MAE:2762.0356
+Finished Training
+Epoch 0
+	Validation Accuracy:0.0
+	Validation Loss:51.2482
+	Validation MAE:43.4687
+	Train Accuracy:0.0
+	Train Loss:36.1769
+	Train MAE:32.7198
+	Test Accuracy:0.0
+	Test Loss:45.8399
+	Test MAE:39.7854
+Epoch 1
+	Validation Accuracy:0.25
+	Validation Loss:21.5392
+	Validation MAE:14.9289
+	Train Accuracy:0.125
+	Train Loss:29.6408
+	Train MAE:21.8046
+	Test Accuracy:0.3125
+	Test Loss:31.5801
+	Test MAE:22.4043
+Epoch 2
+	Validation Accuracy:0.1875
+	Validation Loss:29.1782
+	Validation MAE:20.2583
+	Train Accuracy:0.1875
+	Train Loss:19.7324
+	Train MAE:13.7144
+	Test Accuracy:0.25
+	Test Loss:25.9793
+	Test MAE:19.2443
+Epoch 3
+	Validation Accuracy:0.25
+	Validation Loss:22.4302
+	Validation MAE:15.7948
+	Train Accuracy:0.1875
+	Train Loss:24.4853
+	Train MAE:19.0147
+	Test Accuracy:0.3125
+	Test Loss:25.0798
+	Test MAE:18.9395
+Epoch 4
+	Validation Accuracy:0.1875
+	Validation Loss:35.8782
+	Validation MAE:28.3238
+	Train Accuracy:0.3125
+	Train Loss:20.2051
+	Train MAE:12.6425
+	Test Accuracy:0.25
+	Test Loss:24.3801
+	Test MAE:18.5509
+Epoch 5
+	Validation Accuracy:0.1875
+	Validation Loss:13.4956
+	Validation MAE:11.8279
+	Train Accuracy:0.25
+	Train Loss:11.248
+	Train MAE:9.9733
+	Test Accuracy:0.25
+	Test Loss:23.7685
+	Test MAE:18.212
+Epoch 6
+	Validation Accuracy:0.3125
+	Validation Loss:19.0821
+	Validation MAE:14.728
+	Train Accuracy:0.1875
+	Train Loss:16.6597
+	Train MAE:13.0259
+	Test Accuracy:0.25
+	Test Loss:23.3459
+	Test MAE:17.9437
+Epoch 7
+	Validation Accuracy:0.0625
+	Validation Loss:23.9235
+	Validation MAE:18.5655
+	Train Accuracy:0.3125
+	Train Loss:21.2097
+	Train MAE:13.7083
+	Test Accuracy:0.1875
+	Test Loss:22.9251
+	Test MAE:17.7308
+Epoch 8
+	Validation Accuracy:0.375
+	Validation Loss:23.0524
+	Validation MAE:16.3165
+	Train Accuracy:0.375
+	Train Loss:17.2596
+	Train MAE:13.5971
+	Test Accuracy:0.1875
+	Test Loss:22.5337
+	Test MAE:17.6535
+Epoch 9
+	Validation Accuracy:0.25
+	Validation Loss:23.5594
+	Validation MAE:16.6852
+	Train Accuracy:0.25
+	Train Loss:23.1846
+	Train MAE:17.312
+	Test Accuracy:0.1875
+	Test Loss:22.2058
+	Test MAE:17.5998
+Epoch 10
+	Validation Accuracy:0.3125
+	Validation Loss:23.0847
+	Validation MAE:15.3789
+	Train Accuracy:0.125
+	Train Loss:15.761
+	Train MAE:13.7725
+	Test Accuracy:0.125
+	Test Loss:21.982
+	Test MAE:17.3661
+Epoch 11
+	Validation Accuracy:0.125
+	Validation Loss:21.4329
+	Validation MAE:17.1461
+	Train Accuracy:0.3125
+	Train Loss:13.7693
+	Train MAE:11.2677
+	Test Accuracy:0.125
+	Test Loss:21.7421
+	Test MAE:17.2245
+Epoch 12
+	Validation Accuracy:0.3125
+	Validation Loss:23.0542
+	Validation MAE:16.6994
+	Train Accuracy:0.375
+	Train Loss:15.2435
+	Train MAE:11.7762
+	Test Accuracy:0.1875
+	Test Loss:21.5873
+	Test MAE:16.9773
+Epoch 13
+	Validation Accuracy:0.125
+	Validation Loss:20.4807
+	Validation MAE:15.2601
+	Train Accuracy:0.25
+	Train Loss:25.2268
+	Train MAE:19.2278
+	Test Accuracy:0.25
+	Test Loss:21.4594
+	Test MAE:16.802
+Epoch 14
+	Validation Accuracy:0.1875
+	Validation Loss:20.2137
+	Validation MAE:15.7398
+	Train Accuracy:0.25
+	Train Loss:19.0872
+	Train MAE:13.981
+	Test Accuracy:0.1875
+	Test Loss:21.223
+	Test MAE:16.9359
+Epoch 15
+	Validation Accuracy:0.3125
+	Validation Loss:20.8502
+	Validation MAE:16.1177
+	Train Accuracy:0.125
+	Train Loss:18.6729
+	Train MAE:15.5638
+	Test Accuracy:0.1875
+	Test Loss:21.1259
+	Test MAE:16.704
+Epoch 0
+	Validation Accuracy:0.0625
+	Validation Loss:37.3084
+	Validation MAE:32.3177
+	Train Accuracy:0.0625
+	Train Loss:33.117
+	Train MAE:30.3985
+	Test Accuracy:0.0
+	Test Loss:39.2484
+	Test MAE:34.8795
+Epoch 1
+	Validation Accuracy:0.0
+	Validation Loss:42.9968
+	Validation MAE:32.5846
+	Train Accuracy:0.125
+	Train Loss:25.6917
+	Train MAE:19.4367
+	Test Accuracy:0.25
+	Test Loss:27.5933
+	Test MAE:21.6398
+Epoch 2
+	Validation Accuracy:0.25
+	Validation Loss:18.3046
+	Validation MAE:13.9691
+	Train Accuracy:0.375
+	Train Loss:18.4912
+	Train MAE:12.6981
+	Test Accuracy:0.1875
+	Test Loss:20.1722
+	Test MAE:15.8622
+Epoch 3
+	Validation Accuracy:0.1875
+	Validation Loss:28.6688
+	Validation MAE:21.3674
+	Train Accuracy:0.375
+	Train Loss:12.4948
+	Train MAE:9.5338
+	Test Accuracy:0.1875
+	Test Loss:19.2887
+	Test MAE:15.2694
+Epoch 4
+	Validation Accuracy:0.0625
+	Validation Loss:20.3074
+	Validation MAE:15.9255
+	Train Accuracy:0.125
+	Train Loss:25.6845
+	Train MAE:19.458
+	Test Accuracy:0.1875
+	Test Loss:19.0245
+	Test MAE:14.9819
+Epoch 5
+	Validation Accuracy:0.125
+	Validation Loss:20.5432
+	Validation MAE:16.364
+	Train Accuracy:0.0
+	Train Loss:22.3387
+	Train MAE:17.2736
+	Test Accuracy:0.1875
+	Test Loss:18.817
+	Test MAE:14.7471
+Epoch 6
+	Validation Accuracy:0.3125
+	Validation Loss:22.9585
+	Validation MAE:16.2612
+	Train Accuracy:0.375
+	Train Loss:17.3526
+	Train MAE:12.3298
+	Test Accuracy:0.1875
+	Test Loss:18.5546
+	Test MAE:14.5346
+Epoch 7
+	Validation Accuracy:0.1875
+	Validation Loss:13.9643
+	Validation MAE:11.9141
+	Train Accuracy:0.0625
+	Train Loss:14.9655
+	Train MAE:12.9055
+	Test Accuracy:0.1875
+	Test Loss:18.3341
+	Test MAE:14.3562
+Epoch 8
+	Validation Accuracy:0.1875
+	Validation Loss:21.6458
+	Validation MAE:17.3545
+	Train Accuracy:0.125
+	Train Loss:15.7873
+	Train MAE:13.7148
+	Test Accuracy:0.1875
+	Test Loss:18.2338
+	Test MAE:14.2342
+Epoch 9
+	Validation Accuracy:0.3125
+	Validation Loss:23.3156
+	Validation MAE:16.808
+	Train Accuracy:0.1875
+	Train Loss:20.6705
+	Train MAE:16.3483
+	Test Accuracy:0.1875
+	Test Loss:18.2311
+	Test MAE:14.1367
+Epoch 10
+	Validation Accuracy:0.125
+	Validation Loss:21.2143
+	Validation MAE:17.217
+	Train Accuracy:0.25
+	Train Loss:16.8439
+	Train MAE:12.7739
+	Test Accuracy:0.1875
+	Test Loss:18.0613
+	Test MAE:14.0352
+Epoch 11
+	Validation Accuracy:0.1875
+	Validation Loss:13.5144
+	Validation MAE:10.7898
+	Train Accuracy:0.1875
+	Train Loss:18.6198
+	Train MAE:14.7902
+	Test Accuracy:0.1875
+	Test Loss:17.9677
+	Test MAE:13.9873
+Epoch 12
+	Validation Accuracy:0.5
+	Validation Loss:16.7515
+	Validation MAE:10.9501
+	Train Accuracy:0.125
+	Train Loss:29.2625
+	Train MAE:22.5913
+	Test Accuracy:0.1875
+	Test Loss:18.0076
+	Test MAE:13.9219
+Epoch 13
+	Validation Accuracy:0.1875
+	Validation Loss:21.865
+	Validation MAE:16.2044
+	Train Accuracy:0.25
+	Train Loss:21.6834
+	Train MAE:15.2092
+	Test Accuracy:0.1875
+	Test Loss:17.8337
+	Test MAE:13.9296
+Epoch 14
+	Validation Accuracy:0.3125
+	Validation Loss:18.3775
+	Validation MAE:13.2591
+	Train Accuracy:0.25
+	Train Loss:29.8056
+	Train MAE:20.0868
+	Test Accuracy:0.1875
+	Test Loss:17.872
+	Test MAE:13.8748
+Epoch 15
+	Validation Accuracy:0.0625
+	Validation Loss:23.5308
+	Validation MAE:19.0185
+	Train Accuracy:0.0625
+	Train Loss:16.121
+	Train MAE:13.583
+	Test Accuracy:0.25
+	Test Loss:17.7528
+	Test MAE:13.8451
+Epoch 16
+	Validation Accuracy:0.4375
+	Validation Loss:18.1407
+	Validation MAE:13.0427
+	Train Accuracy:0.125
+	Train Loss:13.1692
+	Train MAE:10.901
+	Test Accuracy:0.3125
+	Test Loss:17.7011
+	Test MAE:13.812
+Epoch 17
+	Validation Accuracy:0.25
+	Validation Loss:14.0462
+	Validation MAE:11.618
+	Train Accuracy:0.3125
+	Train Loss:15.0746
+	Train MAE:12.397
+	Test Accuracy:0.25
+	Test Loss:17.7743
+	Test MAE:13.7829
+Epoch 18
+	Validation Accuracy:0.125
+	Validation Loss:26.7933
+	Validation MAE:21.7419
+	Train Accuracy:0.25
+	Train Loss:15.8002
+	Train MAE:12.2373
+	Test Accuracy:0.3125
+	Test Loss:17.685
+	Test MAE:13.7453
+Epoch 19
+	Validation Accuracy:0.0625
+	Validation Loss:15.8305
+	Validation MAE:13.7227
+	Train Accuracy:0.1875
+	Train Loss:20.0635
+	Train MAE:14.0806
+	Test Accuracy:0.25
+	Test Loss:17.5781
+	Test MAE:13.736
+Epoch 20
+	Validation Accuracy:0.125
+	Validation Loss:13.3592
+	Validation MAE:11.6613
+	Train Accuracy:0.375
+	Train Loss:18.4285
+	Train MAE:12.7196
+	Test Accuracy:0.25
+	Test Loss:17.5468
+	Test MAE:13.6716
+Epoch 21
+	Validation Accuracy:0.0625
+	Validation Loss:25.4055
+	Validation MAE:20.7363
+	Train Accuracy:0.0625
+	Train Loss:28.6673
+	Train MAE:24.5616
+	Test Accuracy:0.25
+	Test Loss:17.5663
+	Test MAE:13.6585
+Epoch 22
+	Validation Accuracy:0.25
+	Validation Loss:26.1057
+	Validation MAE:20.7653
+	Train Accuracy:0.4375
+	Train Loss:20.5113
+	Train MAE:11.9765
+	Test Accuracy:0.25
+	Test Loss:17.4422
+	Test MAE:13.643
+Epoch 23
+	Validation Accuracy:0.375
+	Validation Loss:19.7904
+	Validation MAE:12.7474
+	Train Accuracy:0.125
+	Train Loss:17.0738
+	Train MAE:14.9207
+	Test Accuracy:0.25
+	Test Loss:17.4458
+	Test MAE:13.5624
+Epoch 24
+	Validation Accuracy:0.1875
+	Validation Loss:15.5046
+	Validation MAE:12.6938
+	Train Accuracy:0.1875
+	Train Loss:13.6915
+	Train MAE:10.9005
+	Test Accuracy:0.25
+	Test Loss:17.4104
+	Test MAE:13.4851
+Epoch 25
+	Validation Accuracy:0.3125
+	Validation Loss:17.1668
+	Validation MAE:14.3797
+	Train Accuracy:0.375
+	Train Loss:12.1931
+	Train MAE:9.1511
+	Test Accuracy:0.25
+	Test Loss:17.3784
+	Test MAE:13.4806
+Epoch 26
+	Validation Accuracy:0.25
+	Validation Loss:21.5328
+	Validation MAE:15.797
+	Train Accuracy:0.3125
+	Train Loss:19.9289
+	Train MAE:14.4036
+	Test Accuracy:0.25
+	Test Loss:17.2945
+	Test MAE:13.4545
+Epoch 27
+	Validation Accuracy:0.25
+	Validation Loss:22.0124
+	Validation MAE:18.3253
+	Train Accuracy:0.1875
+	Train Loss:16.0112
+	Train MAE:12.6224
+	Test Accuracy:0.25
+	Test Loss:17.2135
+	Test MAE:13.4219
+Epoch 28
+	Validation Accuracy:0.3125
+	Validation Loss:16.4525
+	Validation MAE:12.4154
+	Train Accuracy:0.1875
+	Train Loss:28.5904
+	Train MAE:20.4958
+	Test Accuracy:0.25
+	Test Loss:17.2339
+	Test MAE:13.3907
+Epoch 29
+	Validation Accuracy:0.3125
+	Validation Loss:11.2511
+	Validation MAE:9.302
+	Train Accuracy:0.375
+	Train Loss:23.4983
+	Train MAE:15.0715
+	Test Accuracy:0.1875
+	Test Loss:17.1763
+	Test MAE:13.4468
+Epoch 30
+	Validation Accuracy:0.0625
+	Validation Loss:22.6237
+	Validation MAE:19.4488
+	Train Accuracy:0.25
+	Train Loss:23.6321
+	Train MAE:18.1253
+	Test Accuracy:0.25
+	Test Loss:17.1654
+	Test MAE:13.4058
+Epoch 31
+	Validation Accuracy:0.4375
+	Validation Loss:10.0006
+	Validation MAE:7.98
+	Train Accuracy:0.25
+	Train Loss:20.5162
+	Train MAE:16.2464
+	Test Accuracy:0.1875
+	Test Loss:17.0895
+	Test MAE:13.4148
+Epoch 32
+	Validation Accuracy:0.125
+	Validation Loss:20.6573
+	Validation MAE:17.051
+	Train Accuracy:0.3125
+	Train Loss:18.7756
+	Train MAE:13.9397
+	Test Accuracy:0.1875
+	Test Loss:17.0606
+	Test MAE:13.4542
+Epoch 33
+	Validation Accuracy:0.1875
+	Validation Loss:22.0873
+	Validation MAE:16.9823
+	Train Accuracy:0.4375
+	Train Loss:15.0892
+	Train MAE:11.623
+	Test Accuracy:0.1875
+	Test Loss:17.023
+	Test MAE:13.4131
+Epoch 34
+	Validation Accuracy:0.375
+	Validation Loss:15.7028
+	Validation MAE:12.0285
+	Train Accuracy:0.3125
+	Train Loss:18.3826
+	Train MAE:14.1055
+	Test Accuracy:0.1875
+	Test Loss:16.9632
+	Test MAE:13.3793
+Epoch 35
+	Validation Accuracy:0.3125
+	Validation Loss:10.1513
+	Validation MAE:8.7124
+	Train Accuracy:0.5
+	Train Loss:13.3118
+	Train MAE:10.0679
+	Test Accuracy:0.1875
+	Test Loss:16.9822
+	Test MAE:13.3303
+Epoch 36
+	Validation Accuracy:0.1875
+	Validation Loss:20.6108
+	Validation MAE:14.9865
+	Train Accuracy:0.1875
+	Train Loss:23.7431
+	Train MAE:15.5174
+	Test Accuracy:0.1875
+	Test Loss:16.8508
+	Test MAE:13.4087
+Epoch 37
+	Validation Accuracy:0.25
+	Validation Loss:17.9658
+	Validation MAE:15.6548
+	Train Accuracy:0.3125
+	Train Loss:15.5372
+	Train MAE:12.3582
+	Test Accuracy:0.1875
+	Test Loss:16.8721
+	Test MAE:13.3625
+Epoch 38
+	Validation Accuracy:0.5625
+	Validation Loss:14.1612
+	Validation MAE:10.2836
+	Train Accuracy:0.1875
+	Train Loss:24.4485
+	Train MAE:19.4054
+	Test Accuracy:0.1875
+	Test Loss:16.8233
+	Test MAE:13.3475
+Epoch 39
+	Validation Accuracy:0.25
+	Validation Loss:24.549
+	Validation MAE:16.3032
+	Train Accuracy:0.1875
+	Train Loss:13.0565
+	Train MAE:10.5434
+	Test Accuracy:0.1875
+	Test Loss:16.8197
+	Test MAE:13.2108
+Epoch 40
+	Validation Accuracy:0.125
+	Validation Loss:12.2633
+	Validation MAE:10.6633
+	Train Accuracy:0.25
+	Train Loss:12.9386
+	Train MAE:10.8171
+	Test Accuracy:0.1875
+	Test Loss:16.7623
+	Test MAE:13.3423
+Epoch 41
+	Validation Accuracy:0.125
+	Validation Loss:17.8087
+	Validation MAE:14.8007
+	Train Accuracy:0.25
+	Train Loss:20.8828
+	Train MAE:14.1257
+	Test Accuracy:0.1875
+	Test Loss:16.7323
+	Test MAE:13.3979
+Epoch 42
+	Validation Accuracy:0.3125
+	Validation Loss:10.2737
+	Validation MAE:8.7568
+	Train Accuracy:0.1875
+	Train Loss:14.6532
+	Train MAE:11.3141
+	Test Accuracy:0.1875
+	Test Loss:16.7079
+	Test MAE:13.4205
+Epoch 43
+	Validation Accuracy:0.1875
+	Validation Loss:12.0835
+	Validation MAE:10.1674
+	Train Accuracy:0.1875
+	Train Loss:13.1282
+	Train MAE:11.1032
+	Test Accuracy:0.1875
+	Test Loss:16.6674
+	Test MAE:13.4289
+Epoch 44
+	Validation Accuracy:0.1875
+	Validation Loss:19.5422
+	Validation MAE:15.787
+	Train Accuracy:0.5
+	Train Loss:17.6009
+	Train MAE:12.5943
+	Test Accuracy:0.1875
+	Test Loss:16.6453
+	Test MAE:13.2819
+Epoch 45
+	Validation Accuracy:0.3125
+	Validation Loss:12.4874
+	Validation MAE:10.168
+	Train Accuracy:0.25
+	Train Loss:20.255
+	Train MAE:16.062
+	Test Accuracy:0.1875
+	Test Loss:16.6154
+	Test MAE:13.3301
+Epoch 46
+	Validation Accuracy:0.3125
+	Validation Loss:14.4633
+	Validation MAE:11.1146
+	Train Accuracy:0.1875
+	Train Loss:23.312
+	Train MAE:18.285
+	Test Accuracy:0.1875
+	Test Loss:16.6131
+	Test MAE:13.3616
+Epoch 47
+	Validation Accuracy:0.125
+	Validation Loss:17.7903
+	Validation MAE:14.2176
+	Train Accuracy:0.25
+	Train Loss:12.6523
+	Train MAE:11.0785
+	Test Accuracy:0.1875
+	Test Loss:16.5476
+	Test MAE:13.4576
+Epoch 48
+	Validation Accuracy:0.1875
+	Validation Loss:15.1833
+	Validation MAE:12.2875
+	Train Accuracy:0.3125
+	Train Loss:15.2648
+	Train MAE:11.5287
+	Test Accuracy:0.1875
+	Test Loss:16.5705
+	Test MAE:13.2331
+Epoch 49
+	Validation Accuracy:0.25
+	Validation Loss:14.8673
+	Validation MAE:12.0364
+	Train Accuracy:0.0
+	Train Loss:19.828
+	Train MAE:16.524
+	Test Accuracy:0.1875
+	Test Loss:16.5069
+	Test MAE:13.3416
+Epoch 50
+	Validation Accuracy:0.25
+	Validation Loss:18.6549
+	Validation MAE:15.1113
+	Train Accuracy:0.25
+	Train Loss:14.1973
+	Train MAE:10.4326
+	Test Accuracy:0.1875
+	Test Loss:16.4977
+	Test MAE:13.3996
+Epoch 51
+	Validation Accuracy:0.4375
+	Validation Loss:16.5544
+	Validation MAE:12.1671
+	Train Accuracy:0.4375
+	Train Loss:13.7933
+	Train MAE:10.5271
+	Test Accuracy:0.1875
+	Test Loss:16.5072
+	Test MAE:13.4143
+Epoch 52
+	Validation Accuracy:0.375
+	Validation Loss:22.5178
+	Validation MAE:15.3
+	Train Accuracy:0.375
+	Train Loss:14.8162
+	Train MAE:10.8496
+	Test Accuracy:0.1875
+	Test Loss:16.4598
+	Test MAE:13.3637
+Epoch 53
+	Validation Accuracy:0.125
+	Validation Loss:16.9476
+	Validation MAE:15.2002
+	Train Accuracy:0.4375
+	Train Loss:12.4025
+	Train MAE:9.108
+	Test Accuracy:0.1875
+	Test Loss:16.466
+	Test MAE:13.2271
+Epoch 54
+	Validation Accuracy:0.125
+	Validation Loss:14.5851
+	Validation MAE:12.66
+	Train Accuracy:0.3125
+	Train Loss:21.8393
+	Train MAE:14.331
+	Test Accuracy:0.1875
+	Test Loss:16.4349
+	Test MAE:13.2399
+Epoch 55
+	Validation Accuracy:0.3125
+	Validation Loss:22.2307
+	Validation MAE:13.9125
+	Train Accuracy:0.375
+	Train Loss:15.7865
+	Train MAE:11.7826
+	Test Accuracy:0.1875
+	Test Loss:16.3942
+	Test MAE:13.2188
+Epoch 56
+	Validation Accuracy:0.375
+	Validation Loss:13.2452
+	Validation MAE:9.6305
+	Train Accuracy:0.375
+	Train Loss:13.8131
+	Train MAE:10.4776
+	Test Accuracy:0.25
+	Test Loss:16.3564
+	Test MAE:13.1572
+Epoch 57
+	Validation Accuracy:0.125
+	Validation Loss:12.628
+	Validation MAE:11.2814
+	Train Accuracy:0.25
+	Train Loss:15.7723
+	Train MAE:12.6533
+	Test Accuracy:0.125
+	Test Loss:16.2863
+	Test MAE:13.4067
+Epoch 58
+	Validation Accuracy:0.1875
+	Validation Loss:28.7843
+	Validation MAE:22.2495
+	Train Accuracy:0.4375
+	Train Loss:19.7074
+	Train MAE:14.1963
+	Test Accuracy:0.25
+	Test Loss:16.2799
+	Test MAE:13.2085
+Epoch 59
+	Validation Accuracy:0.125
+	Validation Loss:21.4565
+	Validation MAE:17.1107
+	Train Accuracy:0.1875
+	Train Loss:17.6404
+	Train MAE:14.409
+	Test Accuracy:0.125
+	Test Loss:16.285
+	Test MAE:13.2953
+Epoch 60
+	Validation Accuracy:0.3125
+	Validation Loss:21.4084
+	Validation MAE:13.4153
+	Train Accuracy:0.5
+	Train Loss:12.7761
+	Train MAE:9.0168
+	Test Accuracy:0.25
+	Test Loss:16.2242
+	Test MAE:13.1958
+Epoch 61
+	Validation Accuracy:0.25
+	Validation Loss:21.0365
+	Validation MAE:16.073
+	Train Accuracy:0.3125
+	Train Loss:25.9081
+	Train MAE:20.26
+	Test Accuracy:0.125
+	Test Loss:16.2092
+	Test MAE:13.1874
