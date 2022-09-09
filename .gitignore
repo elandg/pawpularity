@@ -1,0 +1,7 @@
+*.pt
+*.csv
+env/*
+.vscode/*
+test/*
+train/*
+
