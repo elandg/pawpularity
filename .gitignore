@@ -1,5 +1,6 @@
 *.pt
-*.csv
+train.csv
+test.csv
 env/*
 .vscode/*
 test/*
