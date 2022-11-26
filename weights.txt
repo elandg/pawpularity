@@ -3,3 +3,5 @@ Params to learn:
 	 backbone.fc.bias
 	 fc1.weight
 	 fc1.bias
+	 fc2.weight
+	 fc2.bias
