@@ -3,6 +3,6 @@ train.csv
 test.csv
 env/*
 .vscode/*
-test/*
-train/*
+data/test/test_images/*
+data/train/train_images/*
 
