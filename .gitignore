@@ -1,6 +1,4 @@
 *.pt
-train.csv
-test.csv
 env/*
 .vscode/*
 data/test/test_images/*
