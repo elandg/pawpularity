@@ -5,3 +5,5 @@ Params to learn:
 	 fc1.bias
 	 fc2.weight
 	 fc2.bias
+	 fc3.weight
+	 fc3.bias

@@ -1,0 +1,11 @@
+# Assign values for experiment
+num_bins: 100
+bs_da: 128
+bs: 32
+loss: "t1"
+metrics:
+  - "mse"
+  - "rmse"
+  - "bce"
+model: 0
+
