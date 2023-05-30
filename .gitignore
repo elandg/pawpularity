@@ -1,8 +1,4 @@
-*.pt
-test.csv
-train.csv
+*.pt 
 env/*
 .vscode/*
-data/test/test_images/*
-data/train/train_images/*
-
+data/*
