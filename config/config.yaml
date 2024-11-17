@@ -1,11 +1,25 @@
-# Assign values for experiment
-num_bins: 100
-bs_da: 128
-bs: 32
-loss: "t1"
-metrics:
-  - "mse"
-  - "rmse"
-  - "bce"
-model: 0
-
+exp_name: squeeze
+data:
+  img_dir: /home/elandg/ml/Pawpularity/data/images
+  csv_path: /home/elandg/ml/Pawpularity/data/train.csv
+  num_bins: 100
+  augs:
+    resize: 256
+loader:
+  bs: 32
+  num_workers: 4
+model:
+  name: squeezenet
+  lr: 0.0001
+  loss: rmse
+  # metrics:
+  #   - mse
+  #   - rmse
+  # # - bce
+  use_metadata: False
+  freeze_backbone: False
+  pretrained_weights: True
+train:
+  num_epochs: 20
+  save_every_n_epochs: 4
+  grad_clip_val: 0.5
