@@ -6,3 +6,4 @@ utils/__pycache__/*
 exp/*
 tb/*
 sandbox/*.txt
+*/.ipynb_checkpoints/*
